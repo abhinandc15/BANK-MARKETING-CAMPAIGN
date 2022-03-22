@@ -1,2 +1,2 @@
 # BANK-MARKETING-CAMPAIGN
-This Project concentrates on predicting wether the customer will subscribe for the term deposit or not after he/she has been contacted during the marketing campaign
+This Project concentrates on predicting wether the customer will subscribe for the term deposit or not after he/she has been contacted during the marketing campaign. The data for this project  is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed.
